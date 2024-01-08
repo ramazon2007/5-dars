@@ -1,0 +1,148 @@
+.container
+{
+    width: 1320px;
+    height: 25px; 
+    /* background-color: aqua;  */
+    margin: 0 auto;
+    display: flex;
+    gap: 30px;  
+}
+.container h1
+{
+    position: relative;
+    font-size: 17px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    top: -8px;
+    left: 5px;
+}
+.container p
+{
+    position: relative;
+    font-size: 15px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    top: -10px;
+    left: 1000px;
+}
+.box
+{
+    position: relative;
+    width: 1320px;
+    height: 806px;
+    margin: 0 auto;
+}
+.box img
+{
+    position: relative;
+    width: 1320px;
+    height: 806px;
+    margin: 0 auto;
+    /* top: 10px;
+    left: 20px; */
+}
+.box1
+{
+    margin: 0 auto;
+    display: flex;
+    gap: 30px;
+}
+.box1 h1
+{
+    position: relative;
+    font-size: 17px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    top: 50px;
+    left: 7px;
+}
+.box1 img
+{
+    position: relative;
+    width: 640px;
+    height: 470px;
+    top: 100px;
+    left: -110px;
+    /* align-items: center; */
+}
+.box2
+{
+    margin: 0 auto;
+    display: flex;
+    gap: 30px;
+}
+.box2 img
+{
+    position: relative;
+    width: 640px;
+    height: 470px;
+    top: 100px;
+    left: 10px;
+    /* align-items: center; */
+}
+.box3
+{
+    margin: 0 auto;
+    display: flex;
+    gap: 30px;
+}
+.box3 img
+{
+    position: relative;
+    width: 640px;
+    height: 470px;
+    top: 100px;
+    left: 10px;
+    /* align-items: center; */
+}
+.box4
+{
+    margin: 0 auto;
+    display: flex;
+    gap: 30px;
+}
+.box4 img
+{
+    position: relative;
+    width: 640px;
+    height: 470px;
+    top: 100px;
+    left: 10px;
+    /* align-items: center; */
+}
+.box5
+{
+    margin: 0 auto;
+    display: flex;
+    gap: 30px;
+}
+.box5 img
+{
+    position: relative;
+    width: 640px;
+    height: 470px;
+    top: 100px;
+    left: 10px;
+    /* align-items: center; */
+}
+.box6 h4
+{
+    position: relative;
+    font-size: 12px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    top: 250px;
+    left: 20px;
+}
+.box6 h5
+{
+    position: relative;
+    font-size: 12px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    top: 235px;
+    left: 20px;
+}
+.box6 img
+{
+    position: relative;
+    width: 500px;
+    height: 60px;
+    top: 170px;
+    left: 820px;
+}
